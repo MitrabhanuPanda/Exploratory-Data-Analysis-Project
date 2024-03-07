@@ -1,16 +1,18 @@
 <h1 style="text-align : center"> <font color="red">BASIC PYTHON </Font></h1>
-
+<BR>
 
 # <font color="brown">INTRODUCTION TO PYTHON</font>
 * PYTHON IS A HIGH LEVEL LANGUAGE.
 * IT WORKS ON THE INTERPRETER LOGIC.
 * IT IS ALSO AN OBJECT ORIENTED PROGRAMMING STRUCTURE.
+<BR>
 
  # <font color="brown">FEATURES OF PYTHON</font> 
  * EASY TO LEARN
  * OPEN SOURCE
  * LARGE AMOUNT OF LIBRARIES.
  * HIGH LEVEL LANGUAGE.
+   <BR>
   
   # <font color="brown">APPLICATION PYTHON</font>
   * DATA ANALYSIS
@@ -18,6 +20,7 @@
   * MACHINE LEARNING & ARTIFICIAL INTEELIGENCE
   * WEB SCRAPING
   * ROBOTICS
+<BR>
 
 # <font color="dark blue" >SOME CONCEPTS IN PYTHON</font>
 
